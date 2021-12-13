@@ -1,12 +1,12 @@
 /**
  * main.js
- * http://www.codrops.com
+ * http://www.thealphalets.com
  *
  * Licensed under the MIT license.
  * http://www.opensource.org/licenses/mit-license.php
  * 
- * Copyright 2016, Codrops
- * http://www.codrops.com
+ * Copyright 2016, thealphalets
+ * http://www.thealphalets.com
  */
 ;(function(window) {
 
